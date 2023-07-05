@@ -9,7 +9,7 @@ function About() {
       ></div>
       <div className="aboutBottom">
         <h1>About Us</h1>
-        <p>Burası bir dünya markası. Lezzetin en iyi yeri.</p>
+        <p>This is a world brand. The best place to taste.</p>
       </div>
     </div>
   );

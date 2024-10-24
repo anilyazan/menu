@@ -8,7 +8,7 @@ function Navbar() {
         <img src={logo} />
       </div>
       <div className="rightSide">
-        <Link to="">Home</Link>
+        <Link to="">Home123</Link>
         <Link to="/menu"> Menu</Link>
         <Link to="/about">About</Link>
         <Link to="/contact">Contact</Link>
